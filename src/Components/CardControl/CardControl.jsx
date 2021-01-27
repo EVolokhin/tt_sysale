@@ -6,7 +6,7 @@ export const CardControl = ({ id }) => {
   const [goodsId] = useState(id);
   const [count, setCount] = useState(1);
   const [color, setColor] = useState('Цвет');
-  const [volume, setVolume] = useState(null);
+  const [volume, setVolume] = useState('100');
   const [price, setPrice] = useState(200);
   const [totalPrice, setTotalPrice] = useState(price);
   const [dropActive, setDropActive] = useState(false);
