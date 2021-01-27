@@ -12,7 +12,7 @@ export const Card = ({ id, picture }) => (
       <img
         className="card__compare-image"
         alt="compare"
-        src="./images/vector3.svg"
+        src="./images/v3.svg"
       />
     </button>
     <div>

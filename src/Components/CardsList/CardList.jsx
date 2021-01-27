@@ -10,7 +10,7 @@ const products = [
   },
   {
     id: 2,
-    picture: './images/group 618.svg',
+    picture: './images/group618.svg',
 
   },
   {

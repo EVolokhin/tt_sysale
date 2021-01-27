@@ -85,7 +85,7 @@ export const CardControl = ({ id }) => {
           <p>{color}</p>
           <img
             className="card__color-icon"
-            src="./images/vector1.svg"
+            src="./images/v1.svg"
             alt="choose color"
           />
           <div
